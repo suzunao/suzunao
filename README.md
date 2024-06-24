@@ -42,7 +42,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://suzunao.medium.com/" alt="Layout with last medium posts"  />
+  <img src="https://suzunao.medium.com/" alt="https://suzunao.medium.com/"  />
 </div>
 
 ###
