@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Whoami</h1>
 
 ###
