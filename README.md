@@ -29,6 +29,9 @@
 </div>
 
 ###
+<div alig="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1832898" style='border:none;' ></iframe>
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/d3v25cjxfncsghkw6dk11wk9e">
